@@ -16,7 +16,7 @@ int main() {
 	cout << " carrots.";
 	cout << endl;
 	carrots = carrots - 1;			// изменение переменной
-	pazzle = pazzle - 2;
+	pazzle = pazzle - 2;			// изменение переменной pazzle
 	cout << "Crunch, crunch. Now I have " << carrots << " carrots." << endl;
 	cout << "Pazzle = " << pazzle << "." << endl;
 
