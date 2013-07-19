@@ -1,4 +1,4 @@
-// getinfo.cpp -- ввод и вывод
+п»ї// getinfo.cpp -- РІРІРѕРґ Рё РІС‹РІРѕРґ
 
 #include <iostream>
 
@@ -8,10 +8,10 @@ int main(){
 
 	int carrots;
 	cout << "How many carrots do you have?" << endl;
-	cin >> carrots;		// ввод С++
+	cin >> carrots;		// РІРІРѕРґ РЎ++
 	cout << "Here are two more. ";
 	carrots = carrots + 2;
-	// слудующая строка выполняет конкантинацию вывода
+	// СЃР»СѓРґСѓСЋС‰Р°СЏ СЃС‚СЂРѕРєР° РІС‹РїРѕР»РЅСЏРµС‚ РєРѕРЅРєР°РЅС‚РёРЅР°С†РёСЋ РІС‹РІРѕРґР°
 	cout << "Now you have " << carrots << " carrots." << endl;
 
 	cin.get();
