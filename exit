@@ -1,0 +1,98 @@
+[1mdiff --git a/projectOne/Debug/progectOne.exe b/projectOne/Debug/progectOne.exe[m
+[1mindex a72e90b..23fa0e6 100644[m
+Binary files a/projectOne/Debug/progectOne.exe and b/projectOne/Debug/progectOne.exe differ
+[1mdiff --git a/projectOne/Debug/progectOne.ilk b/projectOne/Debug/progectOne.ilk[m
+[1mindex 65071da..d23b3fb 100644[m
+Binary files a/projectOne/Debug/progectOne.ilk and b/projectOne/Debug/progectOne.ilk differ
+[1mdiff --git a/projectOne/Debug/progectOne.pdb b/projectOne/Debug/progectOne.pdb[m
+[1mindex 5d773c6..1eaa968 100644[m
+Binary files a/projectOne/Debug/progectOne.pdb and b/projectOne/Debug/progectOne.pdb differ
+[1mdiff --git a/projectOne/progectOne.sdf b/projectOne/progectOne.sdf[m
+[1mindex b6d8ba5..4f52a22 100644[m
+Binary files a/projectOne/progectOne.sdf and b/projectOne/progectOne.sdf differ
+[1mdiff --git a/projectOne/progectOne.v11.suo b/projectOne/progectOne.v11.suo[m
+[1mindex de5a512..c6fafe2 100644[m
+Binary files a/projectOne/progectOne.v11.suo and b/projectOne/progectOne.v11.suo differ
+[1mdiff --git a/projectOne/progectOne/Debug/CL.read.1.tlog b/projectOne/progectOne/Debug/CL.read.1.tlog[m
+[1mindex 82035f9..2afb147 100644[m
+Binary files a/projectOne/progectOne/Debug/CL.read.1.tlog and b/projectOne/progectOne/Debug/CL.read.1.tlog differ
+[1mdiff --git a/projectOne/progectOne/Debug/CL.write.1.tlog b/projectOne/progectOne/Debug/CL.write.1.tlog[m
+[1mindex 4140adf..badfba4 100644[m
+Binary files a/projectOne/progectOne/Debug/CL.write.1.tlog and b/projectOne/progectOne/Debug/CL.write.1.tlog differ
+[1mdiff --git a/projectOne/progectOne/Debug/carrots.obj b/projectOne/progectOne/Debug/carrots.obj[m
+[1mindex fbd1860..4bdcefd 100644[m
+Binary files a/projectOne/progectOne/Debug/carrots.obj and b/projectOne/progectOne/Debug/carrots.obj differ
+[1mdiff --git a/projectOne/progectOne/Debug/cl.command.1.tlog b/projectOne/progectOne/Debug/cl.command.1.tlog[m
+[1mindex 6ef0c8c..892e402 100644[m
+Binary files a/projectOne/progectOne/Debug/cl.command.1.tlog and b/projectOne/progectOne/Debug/cl.command.1.tlog differ
+[1mdiff --git a/projectOne/progectOne/Debug/link.command.1.tlog b/projectOne/progectOne/Debug/link.command.1.tlog[m
+[1mindex da7d564..698a57c 100644[m
+Binary files a/projectOne/progectOne/Debug/link.command.1.tlog and b/projectOne/progectOne/Debug/link.command.1.tlog differ
+[1mdiff --git a/projectOne/progectOne/Debug/link.read.1.tlog b/projectOne/progectOne/Debug/link.read.1.tlog[m
+[1mindex e6097bc..35e4fe0 100644[m
+Binary files a/projectOne/progectOne/Debug/link.read.1.tlog and b/projectOne/progectOne/Debug/link.read.1.tlog differ
+[1mdiff --git a/projectOne/progectOne/Debug/link.write.1.tlog b/projectOne/progectOne/Debug/link.write.1.tlog[m
+[1mindex 6a10301..b3c4416 100644[m
+Binary files a/projectOne/progectOne/Debug/link.write.1.tlog and b/projectOne/progectOne/Debug/link.write.1.tlog differ
+[1mdiff --git a/projectOne/progectOne/Debug/progectOne.lastbuildstate b/projectOne/progectOne/Debug/progectOne.lastbuildstate[m
+[1mindex 4591947..9289901 100644[m
+[1m--- a/projectOne/progectOne/Debug/progectOne.lastbuildstate[m
+[1m+++ b/projectOne/progectOne/Debug/progectOne.lastbuildstate[m
+[36m@@ -1,2 +1,2 @@[m
+ #v4.0:v110:false[m
+[31m-Debug|Win32|i:\мои документы\visual studio 2012\Projects\progectOne\|[m
+[32m+[m[32mDebug|Win32|I:\Мои документы\GitHub\OneProject\projectOne\|[m
+[1mdiff --git a/projectOne/progectOne/Debug/progectOne.log b/projectOne/progectOne/Debug/progectOne.log[m
+[1mindex 9f27c3f..563e106 100644[m
+[1m--- a/projectOne/progectOne/Debug/progectOne.log[m
+[1m+++ b/projectOne/progectOne/Debug/progectOne.log[m
+[36m@@ -1,13 +1,13 @@[m
+[31m-﻿Построение начато 18.07.2013 9:30:19.[m
+[31m-     1>Проект "i:\мои документы\visual studio 2012\Projects\progectOne\progectOne\progectOne.vcxproj" в узле 2 (целевые объекты Build).[m
+[32m+[m[32m﻿Построение начато 19.07.2013 10:06:54.[m
+[32m+[m[32m     1>Проект "I:\Мои документы\GitHub\OneProject\projectOne\progectOne\progectOne.vcxproj" в узле 2 (целевые объекты Build).[m
+      1>ClCompile:[m
+          E:\Дима\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt carrots.cpp[m
+          carrots.cpp[m
+        Link:[m
+[31m-         E:\Дима\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"i:\мои документы\visual studio 2012\Projects\progectOne\Debug\progectOne.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"i:\мои документы\visual studio 2012\Projects\progectOne\Debug\progectOne.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"i:\мои документы\visual studio 2012\Projects\progectOne\Debug\progectOne.lib" /MACHINE:X86 Debug\carrots.obj[m
+[31m-         progectOne.vcxproj -> i:\мои документы\visual studio 2012\Projects\progectOne\Debug\progectOne.exe[m
+[31m-     1>Построение проекта "i:\мои документы\visual studio 2012\Projects\progectOne\progectOne\progectOne.vcxproj" завершено (целевые объекты Build).[m
+[32m+[m[32m         E:\Дима\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\Мои документы\GitHub\OneProject\projectOne\Debug\progectOne.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:\Мои документы\GitHub\OneProject\projectOne\Debug\progectOne.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\Мои документы\GitHub\OneProject\projectOne\Debug\progectOne.lib" /MACHINE:X86 Debug\carrots.obj[m
+[32m+[m[32m         progectOne.vcxproj -> I:\Мои документы\GitHub\OneProject\projectOne\Debug\progectOne.exe[m
+[32m+[m[32m     1>Построение проекта "I:\Мои документы\GitHub\OneProject\projectOne\progectOne\progectOne.vcxproj" завершено (целевые объекты Build).[m
+ [m
+ Построение успешно завершено.[m
+ [m
+[31m-Затраченное время: 00:00:00.92[m
+[32m+[m[32mЗатраченное время: 00:00:02.74[m
+[1mdiff --git a/projectOne/progectOne/Debug/vc110.idb b/projectOne/progectOne/Debug/vc110.idb[m
+[1mindex c108888..62f279a 100644[m
+Binary files a/projectOne/progectOne/Debug/vc110.idb and b/projectOne/progectOne/Debug/vc110.idb differ
+[1mdiff --git a/projectOne/progectOne/Debug/vc110.pdb b/projectOne/progectOne/Debug/vc110.pdb[m
+[1mindex 81b4a20..2295f41 100644[m
+Binary files a/projectOne/progectOne/Debug/vc110.pdb and b/projectOne/progectOne/Debug/vc110.pdb differ
+[1mdiff --git a/projectOne/progectOne/carrots.cpp b/projectOne/progectOne/carrots.cpp[m
+[1mindex cd95dcd..2cf1a45 100644[m
+[1m--- a/projectOne/progectOne/carrots.cpp[m
+[1m+++ b/projectOne/progectOne/carrots.cpp[m
+[36m@@ -7,15 +7,18 @@[m [mint main() {[m
+ [m
+ 	using namespace std;[m
+ 	[m
+[31m-	int carrots;					// ���������� ����������[m
+[32m+[m	[32mint carrots, pazzle;			// ���������� ����������[m
+ [m
+ 	carrots = 25;					// ������������ ���������� ��������[m
+[32m+[m	[32mpazzle = 20;[m
+ 	cout << "I have ";[m
+ 	cout << carrots;				// ����������� �������� ����������[m
+ 	cout << " carrots.";[m
+ 	cout << endl;[m
+ 	carrots = carrots - 1;			// ��������� ����������[m
+[32m+[m	[32mpazzle = pazzle - 2;[m
+ 	cout << "Crunch, crunch. Now I have " << carrots << " carrots." << endl;[m
+[32m+[m	[32mcout << "Pazzle = " << pazzle << "." << endl;[m
+ [m
+ 	cin.get();[m
+ 	cin.get();[m
