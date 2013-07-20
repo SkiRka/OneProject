@@ -1,0 +1,13 @@
+﻿Построение начато 20.07.2013 11:51:22.
+     1>Проект "E:\Дима\Repository\BitBucket\training\ProgrammHexoct1\ProgrammHexoct1\ProgrammHexoct1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Дима\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Hexcote.cpp
+         Hexcote.cpp
+       Link:
+         E:\Дима\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Дима\Repository\BitBucket\training\ProgrammHexoct1\Debug\ProgrammHexoct1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Дима\Repository\BitBucket\training\ProgrammHexoct1\Debug\ProgrammHexoct1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Дима\Repository\BitBucket\training\ProgrammHexoct1\Debug\ProgrammHexoct1.lib" /MACHINE:X86 Debug\Hexcote.obj
+         ProgrammHexoct1.vcxproj -> E:\Дима\Repository\BitBucket\training\ProgrammHexoct1\Debug\ProgrammHexoct1.exe
+     1>Построение проекта "E:\Дима\Repository\BitBucket\training\ProgrammHexoct1\ProgrammHexoct1\ProgrammHexoct1.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.53

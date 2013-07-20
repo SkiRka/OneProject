@@ -6,9 +6,9 @@ int main(){
 
 	using namespace std;
 
-	double pi, deametr, dlina;
+	double deametr, dlina;
+	double pi = 3.14;
 
-	pi = 3.14;
 	cout << "Enter deametr: ";
 	cin >> deametr;
 	dlina = pi * deametr;
